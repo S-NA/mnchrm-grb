@@ -1,0 +1,44 @@
+#
+# A theme that displays white icons and 
+# descriptions on a black background.
+#
+# Based on the default included theme.
+#
+
+# Background Colour
+desktop-color: "#000000"
+
+# Console Position
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "800%"
+terminal-height: "800%"
+terminal-border: "0"
+
+# OS List
++ boot_menu {
+    left = 25%
+    top = 25%
+    width = 50%
+    height = 50%
+    icon_width = 26
+    icon_height = 26
+    item_icon_space = 8
+    item_height = 32
+    item_spacing = 8
+    item_color = "#DDD"
+    item_pixmap_style = "item_*.png"
+    selected_item_color = "#FFF"
+    selected_item_pixmap_style = "select_*.png"
+}
+
+# Timeout Message
++ label {
+    id = "__timeout__"
+    text = ""
+    top = 80%
+    left = 0
+    width = 100%
+    align = "center"
+    color = "#DDD"
+}
