@@ -1,14 +1,31 @@
 # mnchrm-grb
 
-!! Untested, please check back soon for the finished theme !!
-
 A monochromatic
 [GRUB](https://www.gnu.org/software/grub/) 
 theme that displays white icons on a black background.
 
 ![screenshot](screenshot.png?raw=true)
 
-Includes logos for over a dozen popular operating systems.
+Includes logos for over a dozen popular operating systems, including:
+
+- Arch Linux
+- CentOS
+- Debian
+- elementaryOS
+- Fedora
+- FreeBSD
+- Gentoo Linux
+- Linux Mint
+- macOS
+- Manjaro Linux
+- Microsoft Windows
+- OpenBSD
+- openSUSE
+- Solus
+- Ubuntu
+- Void Linux
+
+... in addition to some generic icons.
 
 ## Manual Installation
 
